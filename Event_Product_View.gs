@@ -2,8 +2,8 @@
 // Event Product_Detail care sa impinga informatii despre produsele vizualizate. Mandatory sunt name, id si price.
 
 <script>
-// Measure a view of product details. This example assumes the detail view occurs on pageload,
-// and also tracks a standard pageview of the details page.
+//Measure a view of product details. This example assumes the detail view occurs on pageload,
+//and also tracks a standard pageview of the details page.
 dataLayer.push({ ecommerce: null });  // Clear the previous ecommerce object.
 dataLayer.push({
   'event': 'product_detail',

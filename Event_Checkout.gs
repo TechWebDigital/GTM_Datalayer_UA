@@ -1,6 +1,5 @@
-/**
-IMPLEMENTARE EVENT CHECKOUT
-Event Checkout care sa impinga informatii despre produsele care ajung in checkout. Mandatory sunt name, id, price si quantity.
+//IMPLEMENTARE EVENT CHECKOUT
+//Event Checkout care sa impinga informatii despre produsele care ajung in checkout. Mandatory sunt name, id, price si quantity.
 
 <script>
 /**
